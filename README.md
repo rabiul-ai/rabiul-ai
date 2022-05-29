@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rabiul-ai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Md Rabiul Islam
+- I’m interested in Machine Learning, Image Processing, Artificial Intelligence (AI)
+- 🌱 I’m currently learning these things
+- 💞️ I’m looking to collaborate on some related research work
+- You can reach me by my email available in my personal website.
 
 <!---
 rabiul-ai/rabiul-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
