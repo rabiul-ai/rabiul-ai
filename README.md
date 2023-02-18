@@ -1,6 +1,5 @@
 - Hi, I’m Md Rabiul Islam
-- I’m interested in Machine Learning, Image Processing, Artificial Intelligence (AI)
-- 🌱 I’m currently learning these things
+- I’m interested in Machine Learning, Image Processing, Artificial Intelligence (AI) 
 - 💞️ I’m looking to collaborate on some related research work
 - You can reach me by my email available in my personal website.
 
